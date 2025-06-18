@@ -1,18 +1,20 @@
 /*  your css code here. If applicable */
-.box{
-		Background-color: #f5f5f5;
+.testimonial-container{
+	Background-color: #f5f5f5;
 	padding:20px;
 }
-.box-heading{
-	padding:5px;
-}
-.box-text{
+.testimonial{
 	border:1px solid black;
-	padding:10px;
+	padding:5px;
 	background-color:white;
+	margin-top:10px;
+	margin-bottom:5px;
+}
+.testimonial p{
+	margin:0 0 10px;
+	padding:5px;
 }
 .author{
 	text-align:right;
 	font-style:italic;
-	margin-left:80%;
 }
